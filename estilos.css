@@ -1,11 +1,34 @@
-h1 {
-     color: orange;
-   }
-
-p  {  
-     font-family: Verdana, Geneva, Tahoma, sans-serif;
-   }    
-
-h3 {  
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+*{
+  background-color:burlywood;
 }
+
+  .titulo{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    width: 100;
+    padding: 30px;
+  }
+    
+  .menu{
+    color: crimson;
+    text-align: center;
+    width: 80;
+    padding: 30px;
+
+  }
+.tabla{
+  width: 80;
+  padding: 20px;
+  margin: 10px;
+}
+
+.pie{
+   color: rgb(224, 221, 221);
+   background-color: rgb(31, 29, 29);
+   text-align: center;
+}
+  }
+h1 {
+     color: black;
+     
